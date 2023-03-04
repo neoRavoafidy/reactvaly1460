@@ -1,0 +1,70 @@
+{ 
+    "users": [
+    
+      {
+        "name": "RAMAROSOA",
+        "Lastname": "Valéri",
+        "age": "21",
+        "department": "Administration",
+        "matricule": "01615"
+      },
+      {
+        "name": "BEZANOZANO",
+        "Lastname": "Balu",
+        "age": "22",
+        "department": "Administration",
+        "matricule": "01463"
+      },
+      {
+        "name": "MIRANAFELANA",
+        "Lastname": "Feno",
+        "age": "31",
+        "department": "Administration",
+        "matricule": "01889"
+      },
+      {
+        "name": "RANAIVOSON",
+        "Lastname": "Tahiry",
+        "age": "22",
+        "department": "Developpeur web",
+        "matricule": "01460"
+      },
+      {
+        "name": "HERINIAINA",
+        "Lastname": "hery",
+        "age": "29",
+        "department": "Developpeur web",
+        "matricule": "6103"
+      },
+      {
+        "name": "RAMAMBASOA",
+        "Lastname": "felana",
+        "age": "11",
+        "department": "Developpeur web",
+        "matricule": "0601"
+      },
+  
+      {
+        "name": "FELANIRINA",
+        "Lastname": "tetsa",
+        "age": "26",
+        "department": "Logistique",
+        "matricule": "01103"
+      },
+      {
+        "name": "NJAKATIANA",
+        "Lastname": "liva",
+        "age": "9",
+        "department": "Call",
+        "matricule": "3010"
+      },
+      
+      {
+        "name": "MAROVOAY",
+        "Lastname": "Edal",
+        "age": "33",
+        "department": "Call",
+        "matricule": "2089"
+      }
+    ]
+  }
