@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactvaly1460/static/css/main.d5ca5ebe.css",
+    "main.js": "/reactvaly1460/static/js/main.32aff048.js",
+    "static/js/787.395bb855.chunk.js": "/reactvaly1460/static/js/787.395bb855.chunk.js",
+    "index.html": "/reactvaly1460/index.html",
+    "main.d5ca5ebe.css.map": "/reactvaly1460/static/css/main.d5ca5ebe.css.map",
+    "main.32aff048.js.map": "/reactvaly1460/static/js/main.32aff048.js.map",
+    "787.395bb855.chunk.js.map": "/reactvaly1460/static/js/787.395bb855.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5ca5ebe.css",
+    "static/js/main.32aff048.js"
+  ]
+}
